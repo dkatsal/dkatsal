@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dkatsal/static/css/main.b33548f1.chunk.css",
+    "main.js": "/dkatsal/static/js/main.2fb0887e.chunk.js",
+    "main.js.map": "/dkatsal/static/js/main.2fb0887e.chunk.js.map",
+    "runtime-main.js": "/dkatsal/static/js/runtime-main.d88136e6.js",
+    "runtime-main.js.map": "/dkatsal/static/js/runtime-main.d88136e6.js.map",
+    "static/js/2.70a80c43.chunk.js": "/dkatsal/static/js/2.70a80c43.chunk.js",
+    "static/js/2.70a80c43.chunk.js.map": "/dkatsal/static/js/2.70a80c43.chunk.js.map",
+    "static/js/3.1b0a126a.chunk.js": "/dkatsal/static/js/3.1b0a126a.chunk.js",
+    "static/js/3.1b0a126a.chunk.js.map": "/dkatsal/static/js/3.1b0a126a.chunk.js.map",
+    "index.html": "/dkatsal/index.html",
+    "static/css/main.b33548f1.chunk.css.map": "/dkatsal/static/css/main.b33548f1.chunk.css.map",
+    "static/js/2.70a80c43.chunk.js.LICENSE.txt": "/dkatsal/static/js/2.70a80c43.chunk.js.LICENSE.txt",
+    "static/media/photo.2011ca3d.png": "/dkatsal/static/media/photo.2011ca3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d88136e6.js",
+    "static/js/2.70a80c43.chunk.js",
+    "static/css/main.b33548f1.chunk.css",
+    "static/js/main.2fb0887e.chunk.js"
+  ]
+}
